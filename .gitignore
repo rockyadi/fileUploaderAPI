@@ -1,0 +1,17 @@
+.idea/
+*.iml
+/target/
+/.classpath
+/.project
+/.settings
+/bin/
+/target/
+/node/
+/node\npm-cache
+.idea/
+*.iml
+/.settings
+*.docx
+*.tmp
+*.mvn/
+*.log
