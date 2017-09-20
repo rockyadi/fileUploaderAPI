@@ -28,7 +28,7 @@ public class SwaggerConfig {
                 "Spring Boot REST API for File uploading and metadata store",
                 "1.0",
                 "Terms of service",
-                new Contact("Sesha Aditya Mamidala", "https://springframework.guru/about/", "mamidalaaditya@gmail.com"),
+                new Contact("Sesha Aditya Mamidala", "https://github.com/rockyadi/fileUploaderAPI#fileuploaderapi", "mamidalaaditya@gmail.com"),
                "Apache License Version 2.0",
                 "https://www.apache.org/licenses/LICENSE-2.0");
         return apiInfo;
