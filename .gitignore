@@ -14,3 +14,4 @@
 *.docx
 *.tmp
 *.mvn/
+*.log
